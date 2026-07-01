@@ -1,0 +1,5 @@
+- data = raw files such as proteins and ligands
+- prep = cleaned/prepared files for docking
+- res = docking outputs
+- scr  = code or terminal scripts
+- notes = learning notes
