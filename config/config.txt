@@ -1,0 +1,13 @@
+receptor = prep/receptor_1eve.pdbqt
+ligand = prep/ligand_E20.pdbqt
+
+center_x = 2.78114
+center_y = 64.3831
+center_z = 67.9714
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+out = res/E20_docked.pdbqt
+log = res/vina_log.txt
