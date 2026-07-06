@@ -1,0 +1,549 @@
+MODEL 1
+REMARK VINA RESULT:   -11.069      0.000      0.000
+REMARK INTER + INTRA:         -15.555
+REMARK INTER:                 -14.952
+REMARK INTRA:                  -0.603
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       1.451  59.438  71.304  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001       0.526  60.398  71.724  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       0.616  61.757  71.319  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       1.703  62.155  70.439  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       2.619  61.163  70.016  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       2.520  59.844  70.446  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       3.658  61.681  69.176  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       3.301  63.169  68.955  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       2.030  63.472  69.779  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       4.657  61.030  68.755  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001      -0.586  60.258  72.406  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001      -1.592  61.237  72.506  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001       1.351  58.123  71.657  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001       1.945  57.561  72.931  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       4.263  64.188  69.505  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       4.452  65.468  68.803  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       4.704  65.260  67.315  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       4.834  66.561  66.572  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       3.655  67.465  66.792  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       3.435  67.822  68.240  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       3.311  66.510  69.070  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       3.541  68.828  66.142  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001       3.856  68.861  64.657  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001       2.832  68.464  63.741  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001       3.119  68.335  62.340  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001       4.402  68.626  61.867  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001       5.424  69.060  62.773  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001       5.148  69.220  64.168  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:   -10.861      3.936      9.024
+REMARK INTER + INTRA:         -15.274
+REMARK INTER:                 -14.743
+REMARK INTRA:                  -0.531
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       0.505  68.263  63.464  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001      -0.069  68.147  64.733  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       0.717  67.936  65.897  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       2.162  67.843  65.759  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       2.721  67.976  64.466  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       1.925  68.159  63.340  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       4.147  67.839  64.454  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       4.556  67.700  65.939  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       3.262  67.703  66.783  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       4.875  67.808  63.420  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001      -1.312  68.316  65.117  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001      -1.898  67.687  66.231  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001      -0.240  68.503  62.344  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001       0.173  69.489  61.272  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       5.180  66.395  66.353  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       4.539  65.575  67.393  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       3.930  64.305  66.810  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       3.327  63.424  67.869  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       4.304  63.094  68.962  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       4.839  64.311  69.674  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       5.462  65.276  68.624  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       3.942  62.211  70.137  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001       2.462  62.160  70.472  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001       1.750  63.396  70.576  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001       0.388  63.414  71.032  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001      -0.251  62.213  71.351  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001       0.444  60.967  71.214  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001       1.791  60.927  70.735  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:   -10.433      3.618      8.795
+REMARK INTER + INTRA:         -14.696
+REMARK INTER:                 -14.252
+REMARK INTRA:                  -0.444
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       1.176  67.580  65.591  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001       0.442  67.431  66.770  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       1.049  67.025  67.989  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       2.479  66.761  68.003  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       3.204  66.931  66.800  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       2.579  67.308  65.616  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       4.595  66.615  66.933  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       4.800  66.301  68.434  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       3.422  66.396  69.124  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       5.436  66.579  65.989  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001      -0.811  67.723  67.028  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001      -1.911  66.927  66.658  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001       0.607  68.006  64.424  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001       1.414  68.377  63.197  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       5.213  64.897  68.784  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       4.200  63.925  69.226  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       3.556  63.210  68.045  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       2.565  62.167  68.482  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       3.161  61.179  69.443  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       3.694  61.814  70.702  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       4.716  62.922  70.315  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       2.370  60.024  70.019  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001       1.247  60.420  70.962  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001       0.873  59.499  71.990  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001      -0.274  59.756  72.814  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001      -1.012  60.928  72.626  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001      -0.622  61.873  71.623  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001       0.534  61.647  70.812  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:   -10.067      4.075      9.464
+REMARK INTER + INTRA:         -14.201
+REMARK INTER:                 -13.293
+REMARK INTRA:                  -0.909
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       1.045  68.264  62.985  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001       0.119  68.199  64.029  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       0.522  68.086  65.387  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       1.942  68.040  65.693  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       2.862  68.120  64.621  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       2.439  68.208  63.299  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       4.228  68.037  65.046  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       4.173  68.000  66.591  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       2.686  68.001  67.007  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       5.234  67.974  64.282  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001      -1.186  68.342  64.011  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001      -2.002  68.385  65.157  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001       0.668  68.411  61.680  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001       0.179  69.722  61.102  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       4.669  66.745  67.259  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       3.726  65.655  67.558  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       4.053  64.397  66.762  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       3.140  63.253  67.104  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       3.117  62.961  68.578  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       2.665  64.132  69.413  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       3.564  65.360  69.089  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       2.284  61.846  69.174  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001       2.971  61.042  70.264  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001       4.372  61.241  70.467  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001       5.100  60.405  71.381  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001       4.427  59.410  72.094  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001       3.016  59.228  71.923  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001       2.270  60.069  71.039  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -9.815      2.244      3.188
+REMARK INTER + INTRA:         -13.860
+REMARK INTER:                 -13.212
+REMARK INTRA:                  -0.649
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       3.595  60.030  69.804  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001       4.418  60.310  70.898  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       4.991  61.594  71.100  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       4.706  62.646  70.137  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       3.860  62.343  69.044  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       3.331  61.070  68.860  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       3.677  63.449  68.152  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       4.419  64.634  68.813  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       5.087  64.107  70.102  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       3.060  63.411  67.049  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001       4.714  59.574  71.943  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001       4.173  59.756  73.230  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001       3.009  58.809  69.623  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001       2.180  58.122  70.688  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       5.603  65.194  68.071  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       5.423  66.341  67.167  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       5.681  65.956  65.715  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       5.437  67.101  64.770  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       4.066  67.692  64.930  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       3.798  68.220  66.317  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       4.053  67.081  67.347  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       3.574  68.848  64.085  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001       2.253  68.608  63.374  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001       2.204  68.806  61.958  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001       0.952  68.738  61.258  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001      -0.220  68.449  61.962  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001      -0.173  68.213  63.375  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001       1.068  68.250  64.084  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -9.696      1.601      2.760
+REMARK INTER + INTRA:         -13.700
+REMARK INTER:                 -13.039
+REMARK INTRA:                  -0.661
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       1.500  60.633  71.234  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001       2.697  59.926  71.098  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       3.886  60.544  70.624  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       3.849  61.955  70.274  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       2.629  62.652  70.433  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       1.475  62.017  70.878  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       2.711  64.025  70.031  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       4.196  64.255  69.665  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       4.931  62.906  69.824  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       1.741  64.834  69.970  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001       3.001  58.701  71.458  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001       2.787  57.558  70.666  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001       0.362  60.057  71.725  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001      -0.833  60.857  72.197  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       4.498  64.593  68.230  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       3.545  65.400  67.452  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       3.631  66.877  67.819  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       2.710  67.726  66.987  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       2.927  67.529  65.513  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       2.718  66.105  65.062  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       3.635  65.170  65.904  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       2.132  68.279  64.466  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001       2.872  68.550  63.168  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001       2.128  68.520  61.948  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001       2.801  68.624  60.683  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001       4.189  68.782  60.649  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001       4.938  68.850  61.869  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001       4.282  68.777  63.137  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -9.431      2.857      4.156
+REMARK INTER + INTRA:         -13.342
+REMARK INTER:                 -13.120
+REMARK INTRA:                  -0.222
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       2.391  60.972  70.742  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001       3.688  60.539  71.026  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       4.823  61.363  70.799  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       4.622  62.698  70.258  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       3.298  63.119  69.990  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       2.207  62.282  70.201  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       3.230  64.438  69.435  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       4.686  64.960  69.445  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       5.586  63.825  69.979  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       2.183  65.004  69.008  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001       4.103  59.445  71.621  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001       3.944  59.171  72.992  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001       1.291  60.201  70.991  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001       0.104  60.688  71.795  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       5.318  65.237  68.107  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       4.607  66.066  67.120  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       3.747  65.218  66.190  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       2.963  66.055  65.218  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       2.133  67.103  65.905  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       2.948  68.063  66.734  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       3.801  67.252  67.753  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       1.244  68.064  65.146  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001      -0.222  68.034  65.542  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001      -0.574  67.410  66.779  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001      -1.953  67.223  67.132  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001      -2.956  67.679  66.273  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001      -2.611  68.339  65.048  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001      -1.243  68.559  64.693  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -9.332      3.504     10.506
+REMARK INTER + INTRA:         -13.209
+REMARK INTER:                 -12.505
+REMARK INTRA:                  -0.704
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       4.983  66.609  65.165  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001       4.380  65.584  64.433  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       3.834  64.432  65.060  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       3.906  64.324  66.509  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       4.510  65.381  67.230  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       5.056  66.486  66.587  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       4.546  65.147  68.643  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       3.778  63.821  68.857  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       3.365  63.290  67.467  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       5.124  65.879  69.496  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001       4.093  65.514  63.154  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001       4.558  64.511  62.283  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001       5.477  67.737  64.574  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001       4.611  68.922  64.200  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       4.566  62.659  69.399  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       4.275  62.141  70.745  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       2.774  62.047  70.997  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       2.459  61.459  72.344  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       3.119  60.126  72.554  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       4.623  60.181  72.455  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       5.016  60.802  71.083  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       2.946  59.323  73.826  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001       1.942  58.188  73.739  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001       2.288  56.934  74.334  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001       1.442  55.787  74.155  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001       0.262  55.905  73.416  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001      -0.109  57.167  72.847  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001       0.706  58.326  73.039  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -9.313      2.382      4.249
+REMARK INTER + INTRA:         -13.183
+REMARK INTER:                 -12.801
+REMARK INTRA:                  -0.382
+REMARK UNBOUND:                -0.603
+REMARK  Name = prep/ligand_E20.pdb
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O25_25
+REMARK    2  A    between atoms: C2_2  and  O27_27
+REMARK    3  A    between atoms: C8_8  and  C10_10
+REMARK    4  A    between atoms: C10_10  and  C11_11
+REMARK    5  A    between atoms: N14_14  and  C17_17
+REMARK    6  A    between atoms: C17_17  and  C18_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1  E20 A2001       2.943  58.114  74.965  0.00  0.00    +0.000 A 
+ATOM      2  C2  E20 A2001       1.834  57.388  74.523  0.00  0.00    +0.000 A 
+ATOM      3  C3  E20 A2001       1.459  57.347  73.153  0.00  0.00    +0.000 A 
+ATOM      4  C4  E20 A2001       2.259  58.082  72.186  0.00  0.00    +0.000 A 
+ATOM      5  C5  E20 A2001       3.385  58.798  72.656  0.00  0.00    +0.000 A 
+ATOM      6  C6  E20 A2001       3.716  58.839  74.006  0.00  0.00    +0.000 A 
+ATOM      7  C7  E20 A2001       4.076  59.502  71.616  0.00  0.00    +0.000 C 
+ATOM      8  C8  E20 A2001       3.358  59.102  70.306  0.00  0.00    +0.000 C 
+ATOM      9  C9  E20 A2001       2.177  58.179  70.682  0.00  0.00    +0.000 C 
+ATOM     10  O24 E20 A2001       5.043  60.299  71.783  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2  11
+ATOM     11  O27 E20 A2001       1.047  56.566  75.176  0.00  0.00    +0.000 OA
+ATOM     12  C28 E20 A2001      -0.322  56.788  75.415  0.00  0.00    +0.000 C 
+ENDBRANCH   2  11
+BRANCH   1  13
+ATOM     13  O25 E20 A2001       3.334  58.129  76.274  0.00  0.00    +0.000 OA
+ATOM     14  C26 E20 A2001       4.169  57.032  76.901  0.00  0.00    +0.000 C 
+ENDBRANCH   1  13
+BRANCH   8  15
+ATOM     15  C10 E20 A2001       2.652  60.199  69.555  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  C11 E20 A2001       2.955  61.606  69.861  0.00  0.00    +0.000 C 
+ATOM     17  C12 E20 A2001       4.289  62.035  69.261  0.00  0.00    +0.000 C 
+ATOM     18  C13 E20 A2001       4.583  63.489  69.508  0.00  0.00    +0.000 C 
+ATOM     19  N14 E20 A2001       3.473  64.385  69.037  0.00  0.00    +0.000 NA
+ATOM     20  C15 E20 A2001       2.150  64.099  69.700  0.00  0.00    +0.000 C 
+ATOM     21  C16 E20 A2001       1.797  62.597  69.496  0.00  0.00    +0.000 C 
+BRANCH  19  22
+ATOM     22  C17 E20 A2001       3.535  65.892  69.161  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C18 E20 A2001       4.002  66.622  67.914  0.00  0.00    +0.000 A 
+ATOM     24  C19 E20 A2001       3.309  67.813  67.530  0.00  0.00    +0.000 A 
+ATOM     25  C20 E20 A2001       3.612  68.460  66.284  0.00  0.00    +0.000 A 
+ATOM     26  C21 E20 A2001       4.608  67.936  65.456  0.00  0.00    +0.000 A 
+ATOM     27  C22 E20 A2001       5.333  66.764  65.851  0.00  0.00    +0.000 A 
+ATOM     28  C23 E20 A2001       5.064  66.123  67.101  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+ENDBRANCH  19  22
+ENDBRANCH  15  16
+ENDBRANCH   8  15
+TORSDOF 6
+ENDMDL
