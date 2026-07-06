@@ -211,7 +211,7 @@ size_x = 20
 size_y = 20
 size_z = 20
 
-out = results/E20_docked.pdbqt
+out = res/E20_docked.pdbqt
 ```
 
 The docking box was centered around the crystallographic ligand position.
